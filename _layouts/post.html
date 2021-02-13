@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html class="" lang="es">
+
+<head>
+    {%- include head.html -%}
+</head>
+
+<body>
+    <div class="row blur">
+
+        <div class="twelve columns">
+
+            <div class="row">
+                <!--div class="nine columns" style="margin-bottom: 10px">
+        <ul id="menu-header" class="nav-bar horizontal">
+          <li><a href="index.html">Baby Juliette</a></li>
+          <li class="has-flyout"> <a href="#">Pages</a><a href="#" class="flyout-toggle"></a>
+            <ul class="flyout">
+              <li class="has-flyout"><a href="products-page.html">Products Page</a></li>
+              <li class="has-flyout"><a href="product-single.html">Product Single</a></li>
+              <li class="has-flyout"><a href="contact.html">Contact Page</a></li>
+            </ul>
+          </li>
+          <li ><a href="galleries.html">Galleries</a></li>
+          <li ><a href="contact.html">Contacto</a></li>
+        </ul>
+        <script>$('ul#menu-header').nav-bar();</script>
+        <div style="clear:both"></div>
+      </div-->
+                <div class="three columns">
+                    <img src="{{"images/Baby-Shower.png" | relative_url }}" style="padding-top: 15px"
+                        alt="Baby Shower Juliette">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="twelve columns">
+                    <div class="flex-video widescreen vimeo">
+                        <iframe
+                            src="https://player.vimeo.com/video/4749536?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+                            width="900" height="506" frameborder="0" webkitAllowFullScreen mozallowfullscreen
+                            allowFullScreen></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="twelve columns">
+                    <div class="panel callout">
+                        <h1 class="heading_supersize">{{ page.title | escape }}</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="four columns">
+                    <!--h3>Te esperamos</h3-->
+                    <img src="{{"images/babyowl.png" | relative_url }}" style="padding-top: 15px"
+                        alt="Baby Shower Juliette">
+                    <!--a class="button round" href="#">More &raquo;</a-->
+                </div>
+                <div class="four columns">
+                    <h3>Comparte con Nosotros</h3>
+                    <p>Se parte de esta celebración que estamos haciendo para la llegada de nuestra querida Juliette.
+                    </p>
+                    <!--a class="button round" href="#">More &raquo;</a-->
+                </div>
+                <div class="four columns">
+                    <h3>Día</h3>
+                    <p>6 de Marzo de 2021 <br> 2:00 p. m. <br> Romualdo Gallardo 1317 <br> Lucio Blanco, Playas de
+                        Rosarito.</p>
+                    <p>Confirmar asistencia.</p>
+                    <a class="button round" href="https://wa.me/5216618507063?text=Hola%20Baby%20Juliette">WhatsApp
+                        &raquo;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{"javascripts/foundation.min.js" | relative_url }}"></script>
+    <script src="{{"javascripts/app.js" | relative_url }}"></script>
+</body>
+
+</html>

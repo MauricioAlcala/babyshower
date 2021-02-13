@@ -1,0 +1,18 @@
+---
+layout: invitados
+title: "Inivitados"
+categories: invitados
+---
+
+{% for post in site.posts %}
+<!-- product box -->
+<div class='box photo col2'>
+  <a href="{{ post.url }}">
+    <img src="{{"images/prod_thumb.png" | relative_url }}" alt="">
+  </a>
+  <p> {{ post.title }} </p>
+  <p style='text-align:center; margin-bottom:12px'>
+    <a href='{{ post.url }}' class='button small round'>Ver invitación&#187;</a>
+  </p>
+</div>
+{% endfor %}
