@@ -1,0 +1,14 @@
+title: Juliette Baby Shower
+description: Se parte de esta celebración que estamos haciendo para la llegada de nuestra querida Juliette
+baseurl: "/" 
+url: "https://babyshowerjuliette.com/"
+theme: minima
+permalink: none
+plugins:
+  - jekyll-feed
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "es"
