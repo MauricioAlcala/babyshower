@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Benjamin Camacho"
-description: Ven y comparte con nosotros la llegada de nuestra pequeña Juliette
+description: Celebremos juntos la llegada de nuestra pequeña Juliette 
 ---

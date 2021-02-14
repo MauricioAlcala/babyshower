@@ -1,5 +1,6 @@
 ---
 layout: post
-title:  "Esmeralda Franco"
+title:  "Guadalupe Gómez"
 description: Celebremos juntos la llegada de nuestra pequeña Juliette 
 ---
+
