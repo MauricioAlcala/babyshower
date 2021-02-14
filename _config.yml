@@ -12,3 +12,7 @@ defaults:
       path: ""
     values:
       lang: "es"
+    image:
+        path: /images/favicon/og.png
+        height: 512
+        width: 512

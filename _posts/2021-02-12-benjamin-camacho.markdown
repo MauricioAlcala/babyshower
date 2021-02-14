@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Benjamin Camacho"
-categories: invitados
+description: Estas invitado
 ---

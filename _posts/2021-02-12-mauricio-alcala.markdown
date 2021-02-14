@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Mauricio Alcala"
-categories: invitados
+description: Estas invitado
 ---
