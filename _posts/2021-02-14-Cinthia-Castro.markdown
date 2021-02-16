@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Cintia Castro"
+title:  "Cinthia Castro"
 description: Celebremos juntos la llegada de nuestra pequeña Juliette 
 ---
