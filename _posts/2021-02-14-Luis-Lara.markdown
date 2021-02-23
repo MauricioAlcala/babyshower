@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Luis Lara"
+description: Celebremos juntos la llegada de nuestra pequeña Juliette 
+---
